@@ -2,17 +2,10 @@
 
 Allow to add .pkpass file to Apple Wallet
 
-Buy me a coffee if you think this plugin was very useful for your project
-https://paypal.me/nitnelavah?country.x=MX&locale.x=es_XC
-
-----------> EXAMPLE <----------
-https://youtu.be/FUt2J385yCQ
-https://github.com/NitnelavAH/IonicAdd2Wallet
-----------> EXAMPLE <----------
 ## Install
 
 ```bash
-npm install capacitor-pass-to-wallet
+npm install @id90t/capacitor-pass-to-wallet
 npx cap sync
 ```
 
