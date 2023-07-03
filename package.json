@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-pkpass-to-apple-wallet",
+  "name": "@id90t/capacitor-pass-to-wallet",
   "version": "1.0.2",
   "description": "Allow to add .pkpass files to Apple Wallet",
   "main": "dist/plugin.cjs.js",
